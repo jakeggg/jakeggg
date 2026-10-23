@@ -1,7 +1,8 @@
 ## Hellooo 👋
-#Welcome on my profile
-I'm currently learning development
-I like ricing 
+### Welcome on my profile
+I'm currently learning development  
+
+I like cybersecurity and ricing 
 <!--
 **jakeggg/jakeggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
